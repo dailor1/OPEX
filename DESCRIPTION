@@ -1,8 +1,8 @@
 Package: OPEX
 Title: OPEX
 Version: 0.1.0
-Author: Dailor
-Maintainer: Dailor <dailor@proton.com>
+Author: Whirlpool
+Maintainer: Whirlpool <suporte@whirlpool.com>
 Depends: 
     R (>= 4.0.0),
     jaspBase (>= 0.16.0)
